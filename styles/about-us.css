@@ -1,0 +1,60 @@
+section.about-us p {
+  font-size: 18px;
+  line-height: 1.8;
+  margin-bottom: 10px;
+}
+
+.our-team h3 {
+  color: var(--color-primary);
+  margin: 16px 0;
+}
+
+.our-team p {
+  margin: 12px 0;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.our-team .position {
+  color: var(--color-primary-darker);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.our-team .social-list {
+  display: flex;
+  gap: 12px;
+  list-style: none;
+}
+
+.our-team .social-list li a svg {
+  width: 32px;
+  height: 32px;
+  transition: 0.5s;
+}
+
+.our-team .social-list li:first-of-type a svg {
+  fill: #1672e6;
+}
+.our-team .social-list li:nth-of-type(2) a svg {
+  fill: #f74c5e;
+}
+.our-team .social-list li:last-of-type a svg {
+  fill: #1c9cea;
+}
+
+.our-team .social-list li a svg:hover {
+  transform: scale(1.2);
+}
+
+@media (max-width: 992px) {
+  section.about-us p {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .our-team p {
+    line-height: 1.4;
+  }
+}
