@@ -9,4 +9,4 @@
 
 #
 
-## Live Demo -> https://islamalii.github.io/couchly/pages/all-products.html
+## Live Demo -> https://islamalii.github.io/couchly/index.html
