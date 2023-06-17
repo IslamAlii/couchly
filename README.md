@@ -1,12 +1,28 @@
 # couchly
 
+Couchly is a furniture shopping application that provides a user-friendly platform for users to explore and purchase furniture. It leverages the power of CouchDB's NoSQL database to store and retrieve product information efficiently. You can view the website from https://islamalii.github.io/couchly/index.html.
+
+
+
+## Features
 <ul>
-  <li>The Couchly app is a furniture shopping app that allows users to view a variety of products and their details.</li> 
-  <li>Users can browse different categories of furniture, such as sofas, chairs, and tables, and view photos, descriptions, and prices for each item.</li> 
-  <li>The app also includes an FAQ page that provides users with answers to the most asked questions about the company's products and services.</li> 
-  <li>Overall, the Couchly app is a convenient and user-friendly way for users to explore different furniture options and get answers to their questions before making a purchase.</li> 
+  <li>Product Browsing: Browse through a variety of furniture categories such as sofas, chairs, and tables.</li> 
+  <li>Detailed Information: View detailed descriptions, photos, and prices for each item.</li> 
+  <li>FAQ Page: Access a comprehensive FAQ page to get answers to common questions about our products and services.</li> 
  </ul>
 
-#
 
-## Live Demo -> https://islamalii.github.io/couchly/index.html
+## Technologies Used
+<ul>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>Heroicons for icons</li>
+<li>Google Fonts for typography</li>
+</ul>
+
+## Installation
+<ol>
+<li>Clone the repository to your local machine using git clone https://github.com/IslamAlii/coucly.git</li>
+<li>Open the index.html file in your web browser to view the website</li>
+</ol>
